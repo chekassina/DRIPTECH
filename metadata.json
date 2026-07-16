@@ -1,0 +1,6 @@
+{
+  "name": "Driptech Irrigation",
+  "description": "Professional irrigation and water solutions website for Driptech Irrigation Ltd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
